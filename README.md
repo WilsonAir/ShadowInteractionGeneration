@@ -1,3 +1,3 @@
 # ShadowInteractionGeneration
 
-This is the repository for our new paper named "Realastic Shadow Interaction Generation with Diffusion Model"
+This is the repository for our new paper named "Realastic Shadow Generation with Diffusion Model"
