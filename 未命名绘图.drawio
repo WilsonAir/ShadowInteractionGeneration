@@ -881,7 +881,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="62l8PRS1jfsEMkMp0P8t-102" value="Shadow Interaction Intensity Simulation" style="text;whiteSpace=wrap;html=1;textShadow=0;fillColor=none;fontSize=17;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="304.78" y="360.99999999999994" width="360" height="40" as="geometry" />
+          <mxGeometry x="302.28" y="360.99999999999994" width="360" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62l8PRS1jfsEMkMp0P8t-103" value="Shadow Interaction Position Diffusion" style="text;whiteSpace=wrap;html=1;textShadow=0;fillColor=none;fontSize=17;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310.00000000000006" y="36.02000000000001" width="360" height="40" as="geometry" />
