@@ -949,6 +949,33 @@
         <mxCell id="t1ti6l6SF6Spp34zk9yZ-2" value="Diffusion Denoising Unet" style="text;whiteSpace=wrap;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="388.97999999999996" y="162.29" width="138.72" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-1" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=5;" vertex="1" parent="1">
+          <mxGeometry x="108.05" y="409.32" width="30" height="13.09" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="627.2599999999999" y="395.32" width="14.07" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#FFE599;size=6.400000000000006;" vertex="1" parent="1">
+          <mxGeometry x="272.68" y="409.87" width="35" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#F19C99;size=6.400000000000006;" vertex="1" parent="1">
+          <mxGeometry x="472.41" y="409.32" width="35" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-6" value="Pretrained VAE Encoder" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="122.67999999999995" y="400.87" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-7" value="Shadow Interaction Position&amp;nbsp;&lt;div&gt;Latent Encoder&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289.71" y="395" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-8" value="Shadow Ratio Map&amp;nbsp;&lt;div&gt;Latent Encoder&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="493.97999999999996" y="395" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;" vertex="1" parent="1">
+          <mxGeometry x="644.3299999999999" y="395.32" width="14.07" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7U3W_IjcCWOphgel1ruG-10" value="Shadow Control&amp;nbsp;&lt;div&gt;Latent Encoder&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="668.3999999999999" y="395.32" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
